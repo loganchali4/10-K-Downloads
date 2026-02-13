@@ -1,3 +1,3 @@
 # 10-K Downloads
 
-July 2023 | Downloading 10-Ks from SEC's EDGAR site using company CIK and year
+July 2023 | Scraping 10-Ks from EDGAR company CIK and year
